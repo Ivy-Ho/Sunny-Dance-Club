@@ -31,6 +31,10 @@ But I'm not sure if he would be happy when he saw it.
 
 [Ready Player Me](https://readyplayer.me/)
 
+#### Animations
+
+[Mixamo](https://www.mixamo.com/#/)
+
 #### Music (all from [Pixabay](https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=151674))
 
 1. Standing Music by [Lofi_hour](https://pixabay.com/users/lofi_hour-28600719/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=114856)
