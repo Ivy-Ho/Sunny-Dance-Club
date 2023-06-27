@@ -31,7 +31,7 @@ But I'm not sure if he would be happy when he saw it.
 
 [Ready Player Me](https://readyplayer.me/)
 
-#### Animations
+#### Animation
 
 [Mixamo](https://www.mixamo.com/#/)
 
