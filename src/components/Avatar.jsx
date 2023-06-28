@@ -80,3 +80,10 @@ export function Avatar(props) {
 }
 
 useGLTF.preload('models/649a5b3826b8129313c7e6f7.glb')
+useFBX.preload('animations/Standing Idle.fbx')
+useFBX.preload('animations/Rumba Dancing.fbx')
+useFBX.preload('animations/Shaking Dancing.fbx')
+useFBX.preload('animations/Swing Dancing.fbx')
+useFBX.preload('animations/Twist Dancing.fbx')
+useFBX.preload('animations/Breakdance Uprock.fbx')
+useFBX.preload('animations/Breakdance Freezes.fbx')
